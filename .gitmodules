@@ -1,6 +1,6 @@
 [submodule "matchminer-ui"]
 	path = matchminer-ui
-	url = https://github.com/MoyukhShabon/matchminer-ui
+	url = git@github.com:MoyukhShabon/matchminer-ui.git
 [submodule "matchminer-api"]
 	path = matchminer-api
-	url = https://github.com/MoyukhShabon/matchminer-api
+	url = git@github.com:MoyukhShabon/matchminer-api.git
